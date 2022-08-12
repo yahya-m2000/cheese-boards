@@ -11,5 +11,5 @@ const Cheese = db.define('Cheese', {
 })
 
 module.exports = {
-    Cheese,
+    Cheese
 }

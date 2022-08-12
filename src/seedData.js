@@ -35,5 +35,5 @@ const seedCheese = [
 module.exports = {
     seedBoard,
     seedCheese,
-    seedUser,
+    seedUser
 }

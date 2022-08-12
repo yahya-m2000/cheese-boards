@@ -14,5 +14,5 @@ const Board = db.define('Board', {
 })
 
 module.exports = {
-    Board,
+    Board
 }
